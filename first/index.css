@@ -1,0 +1,38 @@
+body{
+  background-color: #A3E4DB;
+}
+img{
+  border-radius: 50%;
+  height: 200px;
+  margin: 2%;
+
+}
+h1{
+  color: #1C6DD0;
+}
+
+h3{
+    color: #1C6DD0;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color:grey;
+  width: 10%;
+}
+.SCHOOLTABLE{
+  background-color: #FFF8F3;
+  border-radius: 5px;
+  border-color: black;
+  border-width: 5px;
+text-align: center;
+}
+.tblh{
+border:solid;
+border-style: dashed;
+border-width: thick;
+}
+th{
+  border-width: 5px;
+  border-color: black;
+}

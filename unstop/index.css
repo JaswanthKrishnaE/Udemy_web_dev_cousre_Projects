@@ -1,0 +1,37 @@
+body{
+    background-color: #EAF6F6;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+.page-header{
+text-align: center;
+background-color: #66BFBF;
+width: max;
+/* margin: 15px; */
+/* padding: 5px; */
+}
+.row{
+background-color: #FCFEFE;
+
+}
+.col{
+    padding: 15px;
+    width: 70px;
+}
+.card-img-top{
+    border-radius: 12px;
+}
+.card-body{
+    padding: 1px;
+}
+.card-text{
+    text-align: center;
+}
+footer{
+    background-color: #00303F;
+}
